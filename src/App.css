@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add this CSS to your styles or create a new CSS file */
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+}
+
+.todo-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo-tabs {
+  margin-top: 20px;
+}
+
+.todo-form {
+  display: flex;
+  align-items: center;
+}
+
+.filter-dropdown {
+  margin-right: 10px;
+}
+
+.task-list {
+  margin-top: 20px;
+}
+
+.category-form {
+  margin-top: 20px;
+}
+
+.category-list {
+  margin-top: 20px;
+}
+
+.warning-modal {
+  text-align: center;
+}
+
+.completed-section {
+  margin-top: 20px;
+}
